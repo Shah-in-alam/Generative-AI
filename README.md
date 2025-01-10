@@ -1,2 +1,2 @@
 # Generative-AI
-Try to train a model for web site handling it's self. 
+It's kind of an ai agent poject..
